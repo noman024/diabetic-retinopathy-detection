@@ -1,1 +1,1 @@
-# dr-detection-resnest152
+# diabetic retinopathy detection
