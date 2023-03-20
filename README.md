@@ -1,4 +1,4 @@
-## **Ongoing Research | Deep Learning based Diabetic Retinopathy Detection from Fundus Photographs**
+# Ongoing Research | Deep Learning based Diabetic Retinopathy Detection from Fundus Photographs
 Diabetic Retinopathy (DR) is a debilitating eye disease caused by elevated blood glucose levels, which can lead to blindness if left
 untreated. The diagnosis of DR is traditionally performed by skilled professionals but is time-consuming and prone to error.
 This study leveraged the use of machine learning to evaluate medical images, with a focus on deep learning techniques applied
